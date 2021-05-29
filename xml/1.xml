@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml informe="vehiculo">
+	<id CODIGO="1"/>
+	<mt MATRICULA="MB1725"/>
+	<tp TIPO="Microbus"/>
+	<md MODELO="County"/>
+	<an AÑO="2004"/>
+	<p PRECIO="18428.2"/>
+	<fa FECHACOMPRA="2006-10-28"/>
+</xml>
